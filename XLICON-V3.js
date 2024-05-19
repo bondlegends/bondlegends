@@ -15,22 +15,22 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : XLICON-V3-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+//  * @project_name :BOND LEGENDS-MD
+//  * @author : BOND LEGENDS OFFICIAL
+//  * @youtube : 
+//   * @description : BOND LEGENDS,A MULTI-FUNCTIONAL WHATSAPP USER BOT 
 //*
 //*
-//base by DGXeon
+//base by bond legends
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
-//   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//Instagram: bond_legends_official
+//Telegram: test
+//GitHub:   test
+//WhatsApp: +91 1111111111
+//want more free bot scripts? subscribe to my youtube channel: test
+//   * Created By Github: test
+//   * Credit To test
+//   * © 2024 BOND LEGENDS-MD
 // ⛥┌┤
 // */
 
@@ -462,8 +462,8 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
         groupInviteMessage: {
           groupJid: "6288213840883-1616169743@g.us",
           inviteCode: "m",
-          groupName: `${xeontext1}`,
-          caption: `${xeontext1}`,
+          groupName: `${bondlegends text1}`,
+          caption: `${bondlegends text1}`,
           jpegThumbnail: thumb,
         },
       },
@@ -478,7 +478,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
         imageMessage: {
           url: "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc",
           mimetype: "image/jpeg",
-          caption: `${xeontext3}`,
+          caption: `${bondlegends text3}`,
           fileSha256: "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=",
           fileLength: "999999999",
           height: 999999999,
@@ -668,7 +668,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
           directPath:
             "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69",
           mediaKeyTimestamp: "1610993486",
-          jpegThumbnail: fs.readFileSync("./XliconMedia/theme/xliconpic.jpg"),
+          jpegThumbnail: fs.readFileSync("./bondlegendsMedia/theme/xliconpic.jpg"),
           scansSidecar:
             "1W0XhfaAcDwc7xh1R8lca6Qg/1bB4naFCSngM2LKO2NoP5RI7K+zLw==",
         },
@@ -729,7 +729,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
           afkTime: -1,
           badword: 0,
           afkReason: "",
-          nick: XliconBotInc.getName(sender),
+          nick: bondlegendsBotInc.getName(sender),
           premium: `${isPremium ? "true" : "false"}`,
           limit: limitUser,
           totalLimit: 0,
@@ -796,7 +796,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
           setting.about = {
             bot: { nick: XliconBotInc.getName(botNumber), alias: botname },
             owner: {
-              nick: XliconBotInc.getName(
+              nick: bondlegendsBotInc.getName(
                 global.ownernumber + "@s.whatsapp.net"
               ),
               alias: global.ownernumber,
@@ -824,11 +824,11 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
           },
           about: {
             bot: {
-              nick: XliconBotInc.getName(botNumber),
+              nick: bondlegendsBotInc.getName(botNumber),
               alias: botname,
             },
             owner: {
-              nick: XliconBotInc.getName(
+              nick: BondlegendsBotInc.getName(
                 global.ownernumber + "@s.whatsapp.net"
               ),
               alias: global.ownernumber,
@@ -906,7 +906,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
 
     //bug loading
     async function loading() {
-      var xeonlod = [
+      var bondlegends = [
         "```■■□□□□□□□ 10%```",
         "```■■■■□□□□□ 30%```",
         "```■■■■■■□□□ 50%```",
@@ -914,12 +914,12 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
         "```■■■■■■■■■ 100%```",
         "```C o m p l e t e...!```🐦",
       ];
-      let { key } = await XliconBotInc.sendMessage(from, {
+      let { key } = await bondlegensBotInc.sendMessage(from, {
         text: "ʟᴏᴀᴅɪɴɢ...",
       });
 
-      for (let i = 0; i < xeonlod.length; i++) {
-        await XliconBotInc.sendMessage(from, { text: xeonlod[i], edit: key });
+      for (let i = 0; i < bondlegends.length; i++) {
+        await bondlegendsInc.sendMessage(from, { text: xeonlod[i], edit: key });
       }
     }
 
@@ -1018,7 +1018,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
       XliconBotInc.sendText("120363167338947238@g.us", { text: `Reset Limit` });
     }
     // Grup Only
-    if (!m.isGroup && !XeonTheCreator && db.data.settings[botNumber].onlygrub) {
+    if (!m.isGroup && !bondlegendsTheCreator && db.data.settings[botNumber].onlygrub) {
       if (isCommand) {
         return replygcXlicon(
           `*_Hello buddy! Because We Want to Reduce Spam, Please Use Bot in the Group Chat !_*\n\n*_If you have issue please chat owner wa.me/${ownernumber}_*`
@@ -1050,7 +1050,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
       XliconBotInc.updateProfileStatus(
         `${botname} 📃 𝐇𝐚𝐯𝐞 𝐁𝐞𝐞𝐧 𝐑𝐮𝐧𝐧𝐢𝐧𝐠 💻 ${runtime(
           process.uptime()
-        )}...                                   ~𝐒𝐓𝐀𝐑 ⭐ 𝐓𝐡𝐞 𝐁𝐨𝐭 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐎𝐧 𝐆𝐢𝐭𝐇𝐮𝐛...                       🏮 © Xʟɪᴄᴏɴ-Iɴᴄ
+        )}...                                   ~𝐒𝐓𝐀𝐑 ⭐ 𝐓𝐡𝐞 𝐁𝐨𝐭 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐎𝐧 𝐆𝐢𝐭𝐇𝐮𝐛...                       🏮 © bondlegends
      `
       ).catch((_) => _);
     }
@@ -1456,9 +1456,9 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
     if (db.data.chats[m.chat].antilink) {
       if (budy.match("http") && budy.match("https")) {
         bvl = `\`\`\`「 Link Detected 」\`\`\`\n\n*_Admin has sent a link, admin is free to send any link😇_*`;
-        if (isAdmins) return replygcXlicon(bvl);
-        if (m.key.fromMe) return replygcXlicon(bvl);
-        if (XeonTheCreator) return replygcXlicon(bvl);
+        if (isAdmins) return replygcbondlegends(bvl);
+        if (m.key.fromMe) return replygcbondlegends(bvl);
+        if (XeonTheCreator) return replygcbondlegends(bvl);
         await XliconBotInc.sendMessage(m.chat, {
           delete: {
             remoteJid: m.chat,
@@ -1512,7 +1512,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
 
     //total features
     const Xliconfeature = () => {
-      var mytext = fs.readFileSync("./XLICON-V3.js").toString();
+      var mytext = fs.readFileSync("./BOND LEGENDS.js").toString();
       var numUpper = (mytext.match(/case "/g) || []).length;
       return numUpper;
     };
@@ -1541,18 +1541,18 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
         );
       }
     }
-    for (let BhosdikaXeon of ImageXeon) {
+    for (let BhosdikaXeon of Imagebondlegends) {
       if (budy === BhosdikaXeon) {
         let imagebuffy = fs.readFileSync(
-          `./XliconMedia/image/${BhosdikaXeon}.jpg`
+          `./XliconMedia/image/${bondlegends}.jpg`
         );
         XliconBotInc.sendMessage(m.chat, { image: imagebuffy }, { quoted: m });
       }
     }
-    for (let BhosdikaXeon of VideoXeon) {
+    for (let BhosdikaXeon of Videobondlegends) {
       if (budy === BhosdikaXeon) {
         let videobuffy = fs.readFileSync(
-          `./XliconMedia/video/${BhosdikaXeon}.mp4`
+          `./XliconMedia/video/${bondlegends}.mp4`
         );
         XliconBotInc.sendMessage(m.chat, { video: videobuffy }, { quoted: m });
       }
@@ -1565,9 +1565,9 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
         { quoted: m }
       );
     };
-    for (let BhosdikaXeon of ApkXeon) {
+    for (let BhosdikaXeon of Apkbondlegends) {
       if (budy === BhosdikaXeon) {
-        let buffer = fs.readFileSync(`./XliconMedia/apk/${BhosdikaXeon}.apk`);
+        let buffer = fs.readFileSync(`./XliconMedia/apk/${bondlegends}.apk`);
         sendapk(buffer);
       }
     }
