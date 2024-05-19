@@ -5,13 +5,13 @@
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=ITS%20BONDLEGENDS-MD;%20MULIT-DEVICE%20WHATSAPP%20BOT;%20By%20BLVCKSER%20-MUDIYAN)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=ITS%20BONDLEGENDS-MD;%20MULIT-DEVICE%20WHATSAPP%20BOT;%20BY%20BLVCKSER%20-MUDIYAN)
 <p align="center">
   
 >BOND LEGENDS MD is based on :
->- [Cheems V10](https://github.com/DGXeon) by [DGXeon](https://github.com/DGXeon) (License: Apache License 2.0)
+>- [BONDLEGENDS V10](TEST) by [BONLEGENDS](TEST) (License: Apache License 2.0)
 >
-> :unicorn: Don't forget to check out! :point_right: [Cheems V10](https://github.com/DGXeon)
+> :unicorn: Don't forget to check out! :point_right: [BONDLEGENDS](TEST)
 </p>
 
 ## 🌟 `Bot Intro and Features`
@@ -48,7 +48,7 @@ BOND LEGENDS is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](ht
 ***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V3-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find BONDLEGENS-MD helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
