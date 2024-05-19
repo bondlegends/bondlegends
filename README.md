@@ -5,7 +5,7 @@
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its%20BONDLEGENDS-MD;%20Multi-Device%20WhatsApp%20Bot;%20By%20BLVCKSER%20MUDIYAN)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its%20BONDLEGENDS-MD;%20Multi-Device%20WhatsApp%20Bot;%20By%20BLVCKSER%20XMUDIYAN)
 <p align="center">
   
 >BOND LEGENDS MD is based on :
